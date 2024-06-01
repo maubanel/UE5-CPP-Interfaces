@@ -11,7 +11,7 @@ These on Unreal 5.4
 <!-- TOC -->
 ## Table of Contents
 
-<kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispachers)](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
+<kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispatchers)](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
 <kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
 <kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
 <kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
@@ -23,5 +23,5 @@ Distributed under the MIT License. See `LICENSE` for more information: [link](LI
 
 </details>
 <details><summary>Dev Tips</summary>
-make git m="add commit message"
+make git m="add commit message "
 </details>
