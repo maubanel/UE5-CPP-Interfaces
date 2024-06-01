@@ -11,11 +11,7 @@ These on Unreal 5.4
 <!-- TOC -->
 ## Table of Contents
 
-<kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispatchers)](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
-<kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
-<kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
-<kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
-<kbd></kbd> &nbsp;&nbsp; [EngerFirstChapter](firstchapterfoldername/README.md#user-content-engine-first-chapter) <br>
+<kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispatchers)](delegates/README.md) <br>
 
 <!-- LICENSE -->
 ## License

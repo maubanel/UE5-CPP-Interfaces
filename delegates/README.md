@@ -19,7 +19,7 @@ There are four types of Delegate are exist in Unreal:
 - Single
 - Multicast
 - Dynamic single
-- [Dynamic multicast](delegates/daynamic_multicast/README.md)
+- [Dynamic multicast](daynamic_multicast/README.md)
 
 
 

@@ -12,8 +12,7 @@ For this project we need
 
 - We need to add a new Delegate variable e.g. `OnScoreChagedDlegate` to the `APlayerScore`class.
 - Now other classes can Subscribe to the instance `OnScoreChagedDelegate` of APlayerScore` class.
-    > [!NOTE] 
-  > Useful information that users should know, even when skimming content.
+    > Note: Subscribing means, making a Delegate to call a function on when executed 
 
 <br>
 
