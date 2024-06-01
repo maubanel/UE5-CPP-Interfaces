@@ -1,12 +1,19 @@
 ![](../images/line3.png)
 
-### Daynamic Multicast Delegates
+### Dynamic Multicast Delegates
 
 <sub>[home](../README.md#user-content-ue5-bp-overview) • [next](../data-types/README.md#user-content-blueprint-data-types)</sub>
 
 ![](../images/line3.png)
 
-Daynamic Multicast Delegates
+Back to our example "Updating UI element when player scores changes" 
+
+For this project we need
+
+- We need to add a new Delegate variable e.g. `OnScoreChagedDlegate` to the `APlayerScore`class.
+- Now other classes can Subscribe to the instance `OnScoreChagedDelegate` of APlayerScore` class.
+    > [!NOTE] 
+  > Useful information that users should know, even when skimming content.
 
 <br>
 

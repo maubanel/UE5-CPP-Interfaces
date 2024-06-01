@@ -6,9 +6,28 @@
 
 ![](../images/line3.png)
 
-Delegates or Event Dispatchers(In BP)
+Delegates or Event Dispatchers(In BP) is a way to call some functions in
+another classes from a main class. In a way that 
+other classes that want to run a functions during a certain event, 
+should subscribe to the caller class.
 
+For example a very common usage of Delegates are at updating UI Elements 
+when player score changes.
+
+There are four types of Delegate are exist in Unreal:
+
+- Single
+- Multicast
+- Dynamic single
+- [Dynamic multicast](delegates/daynamic_multicast/README.md)
+
+
+
+ 
 <br>
+
+
+
 
 ---
 
