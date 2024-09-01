@@ -19,7 +19,6 @@ These on Unreal 5.4
 <kbd></kbd> &nbsp;&nbsp; [Intro to Delegates in C++ (Ben UI)](https://benui.ca/unreal/delegates-intro/) <br>
 <kbd></kbd> &nbsp;&nbsp; [Advanced Delegates in C++ (Ben UI)](https://benui.ca/unreal/delegates-advanced/) <br>
 <kbd></kbd> &nbsp;&nbsp; [Unreal Engine manual Delegates (Epic Games)](https://dev.epicgames.com/documentation/en-us/unreal-engine/delegates-and-lamba-functions-in-unreal-engine?application_version=5.3) <br>
-<kbd></kbd> &nbsp;&nbsp; [Unreal Engine manual Delegates (Epic Games 2)](https://dev.epicgames.com/documentation/en-us/unreal-engine/delegates-and-lamba-functions-in-unreal-engine) <br>
 
 <!-- LICENSE -->
 ## License
