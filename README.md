@@ -11,7 +11,13 @@ These on Unreal 5.4
 <!-- TOC -->
 ## Table of Contents
 
+Important factors to choose each approach: <br>
+<kbd></kbd> &nbsp;&nbsp; [Coupled or Decoupled](coupledDecoupled/README.md) <br>
+
+Different kind of Interfaces:<br>
 <kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispatchers)](delegates/README.md) <br>
+<kbd></kbd> &nbsp;&nbsp; [Interfaces](interfaces/README.md) <br>
+<kbd></kbd> &nbsp;&nbsp; [Direct method calls](directMethodCalls/README.md) <br>
 
 <!-- Resources -->
 ## Resources
