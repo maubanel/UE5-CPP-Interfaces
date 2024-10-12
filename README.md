@@ -13,6 +13,7 @@ These on Unreal 5.4
 
 Important factors to choose each approach: <br>
 <kbd></kbd> &nbsp;&nbsp; [Coupled or Decoupled](coupledDecoupled/README.md) <br>
+<kbd></kbd> &nbsp;&nbsp; [Observer pattern](ObserverPattern/README.md) <br>
 
 Different kind of Interfaces:<br>
 <kbd></kbd> &nbsp;&nbsp; [Delegates (Event Dispatchers)](delegates/README.md) <br>
